@@ -1,0 +1,1232 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '15EA61D4379AD3C143',
+    participant: undefined
+  },
+  messageTimestamp: 1719521169,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_44946576-b506-4d1a-8381-ff00c0bd1820',
+  keyword: 'key_60a2e25c-430a-484f-82bd-d1d1b57d317a',
+  answer: 'Bienvenido soy *ESTRELLA* un bot que te ayudara a resolver tus dudas\n' +
+    '¿Escriba que tipo de persona eres?\n' +
+    '👉 *1* Para *Socio activo*\n' +
+    '👉 *2* Para *Aun no soy socio*\n' +
+    '👉 *3* Para *Colaborador*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6ee9042d5a031bb938bbb771a95e9514'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06C71CDEDBBB8753D7F',
+    participant: undefined
+  },
+  messageTimestamp: 1719521171,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_44946576-b506-4d1a-8381-ff00c0bd1820',
+  keyword: 'key_60a2e25c-430a-484f-82bd-d1d1b57d317a',
+  answer: 'Bienvenido soy *ESTRELLA* un bot que te ayudara a resolver tus dudas\n' +
+    '¿Escriba que tipo de persona eres?\n' +
+    '👉 *1* Para *Socio activo*\n' +
+    '👉 *2* Para *Aun no soy socio*\n' +
+    '👉 *3* Para *Colaborador*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6ee9042d5a031bb938bbb771a95e9514'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '2C98B3938B1D740756',
+    participant: undefined
+  },
+  messageTimestamp: 1719521172,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '3', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b56b9295-65e1-4f38-b4c1-9c3e0251933e',
+  keyword: 'key_ecbc6b3b-62f6-404c-822f-d8a76ed7a21f',
+  answer: '🤖🤖 Es necesario que comprobemos tu identidad:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '791ba7ea6650c8f4d8e390801286b9a6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b3d95c1-ab34-4924-844d-a2d0e2a7b35c',
+  keyword: 'ans_b56b9295-65e1-4f38-b4c1-9c3e0251933e',
+  answer: '¿Cual es tu apellido paterno?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ab7c1897f19c0204035360c1230789e4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06F49236B387FFBE033',
+    participant: undefined
+  },
+  messageTimestamp: 1719521173,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b56b9295-65e1-4f38-b4c1-9c3e0251933e',
+  keyword: 'key_ecbc6b3b-62f6-404c-822f-d8a76ed7a21f',
+  answer: '🤖🤖 Es necesario que comprobemos tu identidad:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '791ba7ea6650c8f4d8e390801286b9a6'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b3d95c1-ab34-4924-844d-a2d0e2a7b35c',
+  keyword: 'ans_b56b9295-65e1-4f38-b4c1-9c3e0251933e',
+  answer: '¿Cual es tu apellido paterno?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ab7c1897f19c0204035360c1230789e4'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '7B9241D50D53170288',
+    participant: undefined
+  },
+  messageTimestamp: 1719521180,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Palomino',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Palomino',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_56054e54-b39a-4811-9ece-3f5f76ac8cd1',
+  keyword: 'ans_4b3d95c1-ab34-4924-844d-a2d0e2a7b35c',
+  answer: '¿Cual es tu DNI?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f6c59a8ae3712024fca9056711d7344'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BF5A61ECC20AE55DF8',
+    participant: undefined
+  },
+  messageTimestamp: 1719521181,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'guevara',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'guevara',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_56054e54-b39a-4811-9ece-3f5f76ac8cd1',
+  keyword: 'ans_4b3d95c1-ab34-4924-844d-a2d0e2a7b35c',
+  answer: '¿Cual es tu DNI?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f6c59a8ae3712024fca9056711d7344'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '8B9E0F604F775C3E52',
+    participant: undefined
+  },
+  messageTimestamp: 1719521182,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '48010271',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '48010271',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_16501008-ec8e-4818-9742-84bcc13eb477',
+  keyword: 'ans_56054e54-b39a-4811-9ece-3f5f76ac8cd1',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e81198e16bb713366343ecfee41a4643'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '05EA20B0D4A92A89AD',
+    participant: undefined
+  },
+  messageTimestamp: 1719521184,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'cal', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cal',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_540c07c9-3d26-4657-a1d4-79b43085af1d',
+  keyword: 'key_915fbac5-c3d6-4224-8048-2053c0c9afb7',
+  answer: '🤖🤖 Es necesario conocer alguna información\n' +
+    'TEA_INTERES: rango de 12 a 98%\n' +
+    'EDAD: rango de 18 a 78 años\n' +
+    'MONTO PRESTAMO: rango de 500 a 4000 soles\n' +
+    'CUOTA FIJA: rango de 50 a 500 soles',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '753c8f0e56fb1ad32591298ec0b0f4fc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5587935-de65-401a-9052-463039c9b7de',
+  keyword: 'ans_540c07c9-3d26-4657-a1d4-79b43085af1d',
+  answer: 'desea continuar *si* o *no*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e77241efa7a110309a152413b6d591f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03FA34B30A9F226C1DF',
+    participant: undefined
+  },
+  messageTimestamp: 1719521186,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '72369991',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '72369991',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_16501008-ec8e-4818-9742-84bcc13eb477',
+  keyword: 'ans_56054e54-b39a-4811-9ece-3f5f76ac8cd1',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e81198e16bb713366343ecfee41a4643'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '2B09F745A523D087B3',
+    participant: undefined
+  },
+  messageTimestamp: 1719521186,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'si', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_235c35c8-754c-4221-8cff-9f1016ff9025',
+  keyword: 'key_bcbc00f6-f347-4592-925e-3afb7119c977',
+  answer: '¿Ingrese TEA_INTERES?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cbad147eb81617ddac13872d499dfd60'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0981FDD3106C005F4D4',
+    participant: undefined
+  },
+  messageTimestamp: 1719521188,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'cal',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cal',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_540c07c9-3d26-4657-a1d4-79b43085af1d',
+  keyword: 'key_915fbac5-c3d6-4224-8048-2053c0c9afb7',
+  answer: '🤖🤖 Es necesario conocer alguna información\n' +
+    'TEA_INTERES: rango de 12 a 98%\n' +
+    'EDAD: rango de 18 a 78 años\n' +
+    'MONTO PRESTAMO: rango de 500 a 4000 soles\n' +
+    'CUOTA FIJA: rango de 50 a 500 soles',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '753c8f0e56fb1ad32591298ec0b0f4fc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b5587935-de65-401a-9052-463039c9b7de',
+  keyword: 'ans_540c07c9-3d26-4657-a1d4-79b43085af1d',
+  answer: 'desea continuar *si* o *no*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e77241efa7a110309a152413b6d591f1'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB040BD2FC6EF1C1D9098',
+    participant: undefined
+  },
+  messageTimestamp: 1719521191,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_235c35c8-754c-4221-8cff-9f1016ff9025',
+  keyword: 'key_bcbc00f6-f347-4592-925e-3afb7119c977',
+  answer: '¿Ingrese TEA_INTERES?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cbad147eb81617ddac13872d499dfd60'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: 'EA590108C0461C70E9',
+    participant: undefined
+  },
+  messageTimestamp: 1719521192,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '18', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '18',
+  from: '51931554223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB030CC90550C81CD17C2',
+    participant: undefined
+  },
+  messageTimestamp: 1719521193,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '16',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '16',
+  from: '51971155938'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04E00021E8F7E282CD5',
+    participant: undefined
+  },
+  messageTimestamp: 1719521195,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '51971155938'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '8BC1436986ED42D404',
+    participant: undefined
+  },
+  messageTimestamp: 1719521195,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'si', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_235c35c8-754c-4221-8cff-9f1016ff9025',
+  keyword: 'key_bcbc00f6-f347-4592-925e-3afb7119c977',
+  answer: '¿Ingrese TEA_INTERES?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2b7eb9e8f714247d9e00807cd3a3f7cc'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_235c35c8-754c-4221-8cff-9f1016ff9025',
+  keyword: 'key_bcbc00f6-f347-4592-925e-3afb7119c977',
+  answer: '¿Ingrese TEA_INTERES?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2b7eb9e8f714247d9e00807cd3a3f7cc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0DD7E626DDC06672315',
+    participant: undefined
+  },
+  messageTimestamp: 1719521197,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '16',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '16',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cb8e83a6-bb75-470b-bd3b-e649046ff0b3',
+  keyword: 'ans_235c35c8-754c-4221-8cff-9f1016ff9025',
+  answer: '¿Ingrese CUOTA_FIJA?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '55a42ff2cdeffac0de55625f0a8a9db3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB008F5B714AFD1974C8A',
+    participant: undefined
+  },
+  messageTimestamp: 1719521202,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '400',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '400',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1f40ca1-5b2f-4097-9212-76eb80e321ac',
+  keyword: 'ans_cb8e83a6-bb75-470b-bd3b-e649046ff0b3',
+  answer: '¿Ingrese MONTO_PRESTAMO?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '44e28fc720ce0405cd02c5188f23468c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '9DE7B7225426EAB1A2',
+    participant: undefined
+  },
+  messageTimestamp: 1719521202,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '18', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '18',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cb8e83a6-bb75-470b-bd3b-e649046ff0b3',
+  keyword: 'ans_235c35c8-754c-4221-8cff-9f1016ff9025',
+  answer: '¿Ingrese CUOTA_FIJA?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '55a42ff2cdeffac0de55625f0a8a9db3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00A7970F03E7F10C1EB',
+    participant: undefined
+  },
+  messageTimestamp: 1719521205,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '2000',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2000',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_948afccc-ec0b-4833-b18c-61b77a9c988f',
+  keyword: 'ans_a1f40ca1-5b2f-4097-9212-76eb80e321ac',
+  answer: '¿Ingrese EDAD?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c7c6a530a503f51bc8b24bc617f21ef3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: 'E4354100611123F4AD',
+    participant: undefined
+  },
+  messageTimestamp: 1719521214,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '100', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '100',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a1f40ca1-5b2f-4097-9212-76eb80e321ac',
+  keyword: 'ans_cb8e83a6-bb75-470b-bd3b-e649046ff0b3',
+  answer: '¿Ingrese MONTO_PRESTAMO?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '44e28fc720ce0405cd02c5188f23468c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '6E431E5DA313D769F3',
+    participant: undefined
+  },
+  messageTimestamp: 1719521217,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '2000', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2000',
+  from: '51931554223'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_948afccc-ec0b-4833-b18c-61b77a9c988f',
+  keyword: 'ans_a1f40ca1-5b2f-4097-9212-76eb80e321ac',
+  answer: '¿Ingrese EDAD?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c7c6a530a503f51bc8b24bc617f21ef3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C4D1C95D5C93905D99',
+    participant: undefined
+  },
+  messageTimestamp: 1719521219,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '28',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '28',
+  from: '51971155938'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '706462ECD8552D53AA',
+    participant: undefined
+  },
+  messageTimestamp: 1719521222,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '30', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '30',
+  from: '51931554223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: 'F4F9914F8713733374',
+    participant: undefined
+  },
+  messageTimestamp: 1719521251,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'algo mas?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'algo mas?',
+  from: '51931554223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '4A29357A72BA503148',
+    participant: undefined
+  },
+  messageTimestamp: 1719521266,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'que msas me puedes decir?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que msas me puedes decir?',
+  from: '51931554223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931554223@s.whatsapp.net',
+    fromMe: false,
+    id: '935006934DF873E844',
+    participant: undefined
+  },
+  messageTimestamp: 1719521271,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'volver', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'volver',
+  from: '51931554223'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0556C079774368B9F04',
+    participant: undefined
+  },
+  messageTimestamp: 1719521285,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51971155938'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB056531E5D6B8AA25B4A',
+    participant: undefined
+  },
+  messageTimestamp: 1719521288,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'volver',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'volver',
+  from: '51971155938'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e25ef637-2ae1-4abc-a1c9-43996874ac04',
+  keyword: 'ans_96e3005c-ef00-4256-8213-24ac0c3d1b22',
+  answer: 'gracias por todo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f370a7c7c0a081f40e9ff7924ce8d7a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_96e3005c-ef00-4256-8213-24ac0c3d1b22',
+  keyword: 'ans_948afccc-ec0b-4833-b18c-61b77a9c988f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bfe1b3ec08ec9ebf96c1229a2a2fe3e9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_44946576-b506-4d1a-8381-ff00c0bd1820',
+  keyword: 'key_60a2e25c-430a-484f-82bd-d1d1b57d317a',
+  answer: 'Bienvenido soy *ESTRELLA* un bot que te ayudara a resolver tus dudas\n' +
+    '¿Escriba que tipo de persona eres?\n' +
+    '👉 *1* Para *Socio activo*\n' +
+    '👉 *2* Para *Aun no soy socio*\n' +
+    '👉 *3* Para *Colaborador*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6ee9042d5a031bb938bbb771a95e9514'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e25ef637-2ae1-4abc-a1c9-43996874ac04',
+  keyword: 'ans_96e3005c-ef00-4256-8213-24ac0c3d1b22',
+  answer: 'gracias por todo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f370a7c7c0a081f40e9ff7924ce8d7a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_44946576-b506-4d1a-8381-ff00c0bd1820',
+  keyword: 'key_60a2e25c-430a-484f-82bd-d1d1b57d317a',
+  answer: 'Bienvenido soy *ESTRELLA* un bot que te ayudara a resolver tus dudas\n' +
+    '¿Escriba que tipo de persona eres?\n' +
+    '👉 *1* Para *Socio activo*\n' +
+    '👉 *2* Para *Aun no soy socio*\n' +
+    '👉 *3* Para *Colaborador*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6ee9042d5a031bb938bbb771a95e9514'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB07C13DFE1F21B2B66F8',
+    participant: undefined
+  },
+  messageTimestamp: 1719521306,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51971155938'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05B9DBEC816BF2D20D7',
+    participant: undefined
+  },
+  messageTimestamp: 1719521410,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: '72369991\nnombre\napellido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '72369991\nnombre\napellido',
+  from: '51971155938'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971155938@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E0538B7F4AA8BEEE72',
+    participant: undefined
+  },
+  messageTimestamp: 1719521418,
+  pushName: 'CARLOS',
+  broadcast: false,
+  message: Message {
+    conversation: 'nombre\n97854126\napellido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'nombre\n97854126\napellido',
+  from: '51971155938'
+}
